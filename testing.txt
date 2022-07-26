@@ -1,0 +1,1 @@
+Configuring github and other essentials to allow and test local push and commits
