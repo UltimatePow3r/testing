@@ -1,2 +1,3 @@
 Configuring github and other essentials to allow and test local push and commits
 Checking ssh for some reason 
+Checking https push
