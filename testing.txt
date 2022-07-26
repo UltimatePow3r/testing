@@ -3,3 +3,4 @@ Checking ssh for some reason
 Checking https push
 Checking authentication
 Final check ssh
+Succesfully configured for both the accounts ssh
