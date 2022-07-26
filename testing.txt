@@ -1,1 +1,3 @@
 Configuring github and other essentials to allow and test local push and commits
+
+Adding a change to this file and then commiting and pushing
