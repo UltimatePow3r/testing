@@ -6,3 +6,4 @@ Final check ssh
 Succesfully configured for both the accounts ssh
 
 Learning branches in git
+Praticing git pull !!
